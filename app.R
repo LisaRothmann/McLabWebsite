@@ -3,7 +3,7 @@ library(shinydashboard)
 library(shinyFiles)
 
 ui <- dashboardPage(
-  dashboardHeader(title = "Research Group Website"),
+  dashboardHeader(title = "McLab Plant Pathology"),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Home", tabName = "home", icon = icon("home")),

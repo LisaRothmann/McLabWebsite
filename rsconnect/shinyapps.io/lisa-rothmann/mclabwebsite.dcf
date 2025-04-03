@@ -5,6 +5,6 @@ account: lisa-rothmann
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14418116
-bundleId: 10049761
+bundleId: 10049785
 url: https://lisa-rothmann.shinyapps.io/mclabwebsite/
 version: 1
