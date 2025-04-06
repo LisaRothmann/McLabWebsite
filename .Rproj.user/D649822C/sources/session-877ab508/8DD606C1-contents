@@ -1,0 +1,21 @@
+/* Change the main color theme */
+.skin-blue .main-header .navbar,
+.skin-blue .main-header .logo {
+  background-color: #017d41;
+}
+
+/* Sidebar background */
+.skin-blue .main-sidebar {
+  background-color: #014b28;
+}
+
+/* Active tab and hover */
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li:hover > a {
+  background-color: #029c50;
+}
+
+/* Optional: Font and subtle style tweaks */
+body {
+  font-family: 'Segoe UI', sans-serif;
+}

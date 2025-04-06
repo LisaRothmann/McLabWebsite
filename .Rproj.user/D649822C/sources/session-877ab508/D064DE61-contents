@@ -1,0 +1,46 @@
+/* === MAIN COLOR THEME OVERRIDE === */
+
+/* Top navbar and logo bar */
+.skin-blue .main-header .navbar,
+.skin-blue .main-header .logo {
+  background-color: #017d41 !important;
+  color: white !important;
+}
+
+/* Sidebar background */
+.skin-blue .main-sidebar {
+  background-color: #014b28 !important;
+}
+
+/* Sidebar text and icons */
+.skin-blue .sidebar a {
+  color: white !important;
+}
+
+/* Active and hover sidebar tab */
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li:hover > a {
+  background-color: #029c50 !important;
+  color: white !important;
+}
+
+/* Content background and font */
+.content-wrapper, .right-side {
+  background-color: #f5f5f5;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 15px;
+}
+
+/* Headings */
+h2, h3 {
+  color: #017d41;
+}
+
+/* Uploaded photo preview styling */
+img {
+  border-radius: 8px;
+  margin: 10px 0;
+}
