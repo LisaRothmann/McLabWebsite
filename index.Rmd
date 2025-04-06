@@ -1,0 +1,8 @@
+---
+layout: default
+title: McLab Plant Pathology
+---
+
+### About us 
+
+Our research programme is committed to enhancing agricultural productivity in South Africa by addressing challenges in plant pathology. Through focused studies on key fungal pathogens, such as _Sclerotinia sclerotiorum_, and crops, i.e., canola, sunflower, soybean, 
